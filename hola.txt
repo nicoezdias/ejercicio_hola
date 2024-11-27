@@ -1,7 +1,3 @@
 
-Git y GitHub son herramientas indispensables para cualquier desarrollador sin 
-importar el ámbito de trabajo.
-También son herramientas que se van a estar utilizando todo el tiempo, así que es 
-recomendable practicar con ellas hasta dominarlas, porque van a hacer nuestro trabajo 
-mucho más eficiente.
+NicoD: - Hola, como estas?
 
